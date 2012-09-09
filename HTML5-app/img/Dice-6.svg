@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="557" height="557">
+  <defs>
+    <linearGradient id="grad4" x1="25%" y1="20%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(245,245,181);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+<rect x="4" y="4" width="549" height="549" rx="68" fill="url(#grad4)" stroke="#000" stroke-width="7"/>
+<circle fill="#FF724C" stroke="#700" stroke-width="5" cx="117" cy="117" r="57"/>
+<circle fill="#FF724C" stroke="#700" stroke-width="5" cx="424" cy="117" r="57"/>
+<circle fill="#FF724C" stroke="#700" stroke-width="5" cx="117" cy="424" r="57"/>
+<circle fill="#FF724C" stroke="#700" stroke-width="5" cx="424" cy="424" r="57"/>
+<circle fill="#FF724C" stroke="#700" stroke-width="5" cx="278" cy="117" r="57"/>
+<circle fill="#FF724C" stroke="#700" stroke-width="5" cx="278" cy="424" r="57"/>
+</svg>
