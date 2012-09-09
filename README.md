@@ -19,7 +19,7 @@ Future Plans
 1. Add time stamp to the output.
 2. Add a log of previous rolls.
 3. Allow for other than 6 sided dice.
-
+4. Build this into a native application for iOS and Android.
 
 
 
