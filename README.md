@@ -1,14 +1,25 @@
 dice-roller
 ===========
 
-HTML5 and native application for iPhone, Android and other mobile devices to roll dice.
+HTML5 and native application for iPhone, Android and other mobile
+devices to roll dice.
 
 The Story
 =========
 
-We were traveling and wanted to play a game with some dice.  That is wen we found out 
-that we failed to bring any dice.  So... Dice-Roller was born!   You can select the
-number of dice to roll.  Fun was had - and that is the important part!
+We were traveling and wanted to play a game with some dice.  That
+is wen we found out that we failed to bring any dice.  Our best
+plans to play games foiled by forgotten dice.  So... Dice-Roller
+was born!   You can select the number of dice to roll.  Fun was had
+- and that is the important part!
+
+Future Plans
+============
+
+1. Add time stamp to the output.
+2. Add a log of previous rolls.
+3. Allow for other than 6 sided dice.
+
 
 
 
